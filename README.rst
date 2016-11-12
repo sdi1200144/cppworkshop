@@ -8,7 +8,7 @@ C++ WORKSHOP HANDS-ON
 Exercise 1: memerr.cpp (memory errors)
 ======================================
 
-1. Execute the following:
+1. Execute the following  :
 
    .. code:: bash
 
